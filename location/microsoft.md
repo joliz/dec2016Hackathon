@@ -23,7 +23,7 @@ F     |     Swaze      | [Link](https://github.com/franklin97/wazeforefugees)| [
 G     |Save the Water| [Link](https://github.com/jocelynr/environmental-hackathon)| [Link](https://cdn.rawgit.com/jocelynr/environmental-hackathon/master/index.html)|
 H     |Clean-Up Team| [Link](https://github.com/EpicHoward/hackathon)| [Link](https://epichoward.github.io/hackathon/)|
 I     |      ---  | ---| ---|
-J     |The Landfill | [Link](https://github.com/rosarivera123/scripted-hackathon-2016)| [Link](https://cdn.rawgit.com/rosarivera123/scripted-hackathon-2016/master/intro-page.html)|
+J     | The Landfill | [Link](https://github.com/rosarivera123/scripted-hackathon-2016)| [Link](https://cdn.rawgit.com/rosarivera123/scripted-hackathon-2016/master/intro-page.html)|
 K     |     TK Kokoon      | [Link](https://github.com/evelyncarrera22/team_k)| [Link](https://cdn.rawgit.com/evelyncarrera22/team_k/master/firstpage.html)|
 L     |      Team L     | [Link](https://github.com/kevinhui98/hackathon_2016_team_L)| [Link](https://cdn.rawgit.com/ameier38/hackathon_2016_team_L/master/index.html)|
 M     |       Team M    | [Link](https://github.com/Hjosmelvy/dec2016Hackathon/blob/master/content.html)| [Link](https://cdn.rawgit.com/Hjosmelvy/dec2016Hackathon/master/content.html|
