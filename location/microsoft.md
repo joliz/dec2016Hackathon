@@ -25,7 +25,7 @@ H     |Clean-Up Team| [Link](https://github.com/EpicHoward/hackathon)| [Link](ht
 I     |      ---  | ---| ---|
 J     |The Landfill | [Link](https://github.com/rosarivera123/scripted-hackathon-2016)| [Link](https://cdn.rawgit.com/rosarivera123/scripted-hackathon-2016/master/intro-page.html)|
 K     |     TK Kokoon      | [Link](https://github.com/evelyncarrera22/team_k)| [Link](https://cdn.rawgit.com/evelyncarrera22/team_k/master/firstpage.html)|
-L     |           | [Link](insert link here)| [Link](insert link here)|
+L     |      Team L     | [Link](https://github.com/kevinhui98/hackathon_2016_team_L)| [Link](https://cdn.rawgit.com/kevinhui98/hackathon_2016_team_L/master/index.html)|
 M     |           | [Link](insert link here)| [Link](insert link here)|
 N     |           | [Link] https://github.com/JamesK1ng/TeamJaws/blob/master/README.md | [Link](insert link here)|
 O     |    Team O       | [Link](https://github.com/azizyokubjonov/let-s-talk)| [Link](https://rawgit.com/azizyokubjonov/let-s-talk/master/index.html)|
