@@ -21,7 +21,7 @@ D     |           | [Link](insert link here)| [Link](insert link here)|
 E     |           | [Link](insert link here)| [Link](insert link here)|
 F     |           | [Link](https://github.com/franklin97/wazeforefugees)| [Link](insert link here)|
 G     |           | [Link](insert link here)| [Link](insert link here)|
-H     |           | [Link](insert link here)| [Link](insert link here)|
+H     |Clean-Up Team| [Link](https://github.com/EpicHoward/hackathon)| [Link](https://epichoward.github.io/hackathon/)|
 I     |      ---  | ---| ---|
 J     |           | [Link](insert link here)| [Link](insert link here)|
 K     |           | [Link](insert link here)| [Link](insert link here)|
