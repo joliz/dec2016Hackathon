@@ -16,7 +16,7 @@ Letter| Team Name |        Github Repo      |      Deployable Link    |
 ------|-----------|-------------------------| ----------------------- |
 A     |GEOteer  | [Link](https://github.com/jpprieto/GEOteer)| [Link](https://rawgit.com/jpprieto/GEOteer/master/page1.html)|
 B     |MemeForce          | [Link](https://github.com/mdepuy/trashcollection)| [Link](https://cdn.rawgit.com/mdepuy/trashcollection/v1.1/intro.html)|
-C     |           | [Link](insert link here)| [Link](insert link here)|
+C     |LAJJ           | [Link](https://github.com/joelc1337/scriptEdDecHackathon/blob/master/scenario.html)| [Link](https://cdn.rawgit.com/joelc1337/scriptEdDecHackathon/master/scenario.html)|
 D     |           | [Link](insert link here)| [Link](insert link here)|
 E     |Water Crisis| [Link](https://github.com/Kayahma23/Water-Crisis)| [Link](https://rawgit.com/Kayahma23/Water-Crisis/master/home.html)|
 F     |     Swaze      | [Link](https://github.com/franklin97/wazeforefugees)| [Link](https://preview.c9users.io/franklin97/syrianrefugees1/final.html?_c9_id=livepreview0&_c9_host=https://ide.c9.io)|
