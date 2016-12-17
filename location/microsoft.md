@@ -27,7 +27,7 @@ J     |The Landfill | [Link](https://github.com/rosarivera123/scripted-hackathon
 K     |     TK Kokoon      | [Link](https://github.com/evelyncarrera22/team_k)| [Link](insert link here)|
 L     |           | [Link](insert link here)| [Link](insert link here)|
 M     |           | [Link](insert link here)| [Link](insert link here)|
-N     |           | [Link](insert link here)| [Link](insert link here)|
+N     |           | [Link] https://github.com/JamesK1ng/TeamJaws/blob/master/README.md | [Link](insert link here)|
 O     |    Team O       | [Link](https://github.com/azizyokubjonov/let-s-talk)| [Link](https://rawgit.com/azizyokubjonov/let-s-talk/master/index.html)|
 P     |     Team P      | [https://github.com/cruiz18/code4change]| [https://cdn.rawgit.com/cruiz18/code4change/master/index.html]|
 		
