@@ -1,18 +1,8 @@
-# ScriptEd Hackathon December 2016!
+# ScriptEd Hackathon May 2017!
 ![Imgur](http://i.imgur.com/RecSfOa.jpg)
 
-##Theme: Code for Change
-You will use your coding skills, your creativity, your experiences to design projects that help make the world (Or your school! Or New York! Or your neighborhood!) a better place.   
-
-The theme of **"Code for Change"** will mean different of things to different people-- maybe you are interested in stopping climate change, or helping young people have a stronger voice in politics. Maybe you are passionate about making sure people have access to healthy food, or safe housing, or fair wages. Maybe you want to speak out against discrimination, inequality, or violence. It is be up to you and your team to choose where to focus your efforts!
-
-####Links and inspiration
-* [Games for Change](http://www.gamesforchange.org/studentchallenge/blog/)
-* [Data News](https://datanews.chhs.ca.gov/2016/08/10/2016-uc-davis-hackathon-focused-on-coding-for-social-good/)
-* [Technical.ly](http://technical.ly/philly/2014/11/07/data-driven-solutions-shine-penns-social-impact-hackathon/)
-* [Issues You Can Work On](https://www.dosomething.org/us/campaigns/)
-* [Emoti-Con](http://emoti-con.org/)
-* [1001 Hackathon](http://1001.impacthub.net/) 
+##Theme: SUPER SEKRIT THEME WILL BE REVEALED ON HACKATHON DAY
+You will use your coding skills, your creativity, your experiences to design projects that will address the theme.   
 
 
 
